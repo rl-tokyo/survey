@@ -1,5 +1,7 @@
 # PGQ: Combining policy gradient and Q-learning
 
+<img src='../tmb/PGQ: Combining policy gradient and Q-learning.png' width=750px />
+
 - 論文リンク: https://arxiv.org/abs/1611.01626
 - 著者: Brendan O'Donoghue, Remi Munos, Koray Kavukcuoglu, Volodymyr Mnih
 - 所属: DeepMind
