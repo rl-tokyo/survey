@@ -39,6 +39,9 @@ Atariの50以上のゲームにおいて、得られた報酬に基づくスコ�
 
 <!-- #### 定理・証明していること（汎用的で重要なものであれば） -->
 
+## 次に読むべき論文
+- Nachum et al. (2017) [Bridging the Gap Between Value and Policy Based Reinforcement Learning](https://arxiv.org/abs/1702.08892)
+
 ## コメント
 
 #### @sotetsuk: 8/10
