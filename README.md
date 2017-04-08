@@ -1,7 +1,13 @@
 # rl-tokyo/survey
 強化学習論文のサーベイ用リポジトリです。
 
-## 論文追加方法
+- [スプレッドシート](https://docs.google.com/spreadsheets/d/1OvKNmXXPgSyhdZsscjzrK5QVyB7Om7voN4rdc9jhh0I/edit?usp=sharing)で進捗を管理していくことにします。
+- 現在フォーマット探索中です
+  - https://github.com/rl-tokyo/survey/issues/1#issuecomment-292112577
+  - スライド形式: https://docs.google.com/presentation/d/1P_ks8cqXcQmc8rBk7QlxcBHwfSdlNYnPmnWF0yj_nYs/edit?usp=sharing
+  - Markdown形式: https://github.com/rl-tokyo/survey/tree/master/papers
+
+## Markdown形式でのまとめに論文を追加する方法
 - テンプレートから一つのmdファイルを生成してそこに一つの論文に関する情報・まとめ・コメントを加えて行きます。
 - 基本的に1PR1論文。まとめ事項などに対してレビューが入った場合は対応をお願い致します。
 
